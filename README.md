@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">A passionate mobile developer</h3>
+<h3 align="center">A passionate ios developer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
